@@ -1,0 +1,187 @@
+{
+    "Doctor": {
+        "pediatrician":[
+            {
+                "Name": "Dr. Marvin Hart",
+                "Zip Code": "60607",
+                "Insurance": ["blue cross and blue shield of illinois", "cigna healthcare of illinois, inc.", "health alliance medical plans, inc."],
+                "Days": ["saturday", "monday", "wednesday", "thursday"]
+            },
+
+            {
+                "Name": "Dr. Gayle Matthews",
+                "Zip Code": "60165",
+                "Insurance": ["blue cross and blue shield of illinois", "cigna healthcare of illinois, inc.", "quartz health benefit plans corporation"],
+                "Days": ["saturday", "monday", "friday"]
+            },
+
+            {
+                "Name": "Dr. Cara James",
+                "Zip Code": "60165",
+                "Insurance": ["cigna healthcare of illinois, inc.", "quartz health benefit plans corporation"],
+                "Days": ["saturday", "monday", "thursday","sunday"]
+            }
+        ],
+
+        "primary care physician":[
+            {
+                "Name": "Dr. Nick Smart",
+                "Zip Code": "60612",
+                "Insurance": ["blue cross and blue shield of illinois", "health alliance medical plans, inc."],
+                "Days": ["saturday", "monday", "wednesday", "thursday"]
+            },
+
+            {
+                "Name": "Dr. Gayle Matthews",
+                "Zip Code": "60090",
+                "Insurance": ["blue cross and blue shield of illinois", "cigna healthcare of illinois, inc.", "quartz health benefit plans corporation", "celtic insurance company"],
+                "Days": ["saturday", "monday", "tuesday", "friday"]
+            },
+
+            {
+                "Name": "Dr. David Hart",
+                "Zip Code": "60090",
+                "Insurance": ["blue cross and blue shield of illinois", "quartz health benefit plans corporation", "celtic insurance company"],
+                "Days": ["monday", "wednesday", "friday"]
+            }
+        ], 
+
+        "dermatologist":[
+            {
+                "Name": "Dr. Sara Hunter",
+                "Zip Code": "60610",
+                "Insurance": ["blue cross and blue shield of illinois", "health alliance medical plans, inc.", "ambetter insured by celtic"],
+                "Days": ["saturday", "monday", "thursday", "friday"]
+            },
+
+            {
+                "Name": "Dr. Farah Qazi",
+                "Zip Code": "60601",
+                "Insurance": ["health alliance medical plans, inc.", "my health alliance", "quartz health benefit plans corporation", "celtic insurance company"],
+                "Days": ["saturday", "tuesday", "wednesday", "thursday", "friday"]
+            }, 
+
+            {
+                "Name": "Dr. Abdullah Ahmed",
+                "Zip Code": "60090",
+                "Insurance": [ "cigna healthcare of illinois, inc.", "quartz health benefit plans corporation", "celtic insurance company"],
+                "Days": ["saturday", "monday", "thursday", "sunday"]
+            }
+        ], 
+
+        "cardiologist":[
+            {
+                "Name": "Dr. Gerald Connors",
+                "Zip Code": "60654",
+                "Insurance": ["blue cross and blue shield of illinois", "health alliance medical plans, inc.", "quartz health benefit plans corporation"],
+                "Days": ["sunday", "monday", "thursday"]
+            },
+
+            {
+                "Name": "Dr. Maryam Hassan",
+                "Zip Code": "60602",
+                "Insurance": ["blue cross and blue shield of illinois", "cigna healthcare of illinois, inc."],
+                "Days": [ "monday", "wednesday", "friday"]
+            },
+
+            {
+                "Name": "Dr. James Cooper",
+                "Zip Code": "60661",
+                "Insurance": ["blue cross and blue shield of illinois", "cigna healthcare of illinois, inc.", "quartz health benefit plans corporation", "celtic insurance company"],
+                "Days": ["saturday", "monday", "friday"]
+            }
+        ],
+
+        "opthamologist":[
+            {
+                "Name": "Dr. Matthew Yager",
+                "Zip Code": "60651",
+                "Insurance": ["blue cross and blue shield of illinois", "health alliance medical plans, inc.", "celtic insurance company"],
+                "Days": ["saturday", "monday", "thursday", "friday"]
+            },
+
+            {
+                "Name": "Dr. Daniel Freeman",
+                "Zip Code": "60636",
+                "Insurance": ["blue cross and blue shield of illinois", "cigna healthcare of illinois, inc.", "celtic insurance company"],
+                "Days": ["saturday", "monday", "thursday", "friday"]
+            },
+
+            {
+                "Name": "Dr. Fatimah Al-Hafeez",
+                "Zip Code": "60651",
+                "Insurance": ["blue cross and blue shield of illinois", "cigna healthcare of illinois, inc.", "quartz health benefit plans corporation", "celtic insurance company"],
+                "Days": ["saturday", "thursday", "friday"]
+            }
+        ],
+
+        "psychiatrist":[
+            {
+                "Name": "Dr. Samantha Raymond",
+                "Zip Code": "60639",
+                "Insurance": ["blue cross and blue shield of illinois", "health alliance medical plans, inc.", "ambetter insured by celtic"],
+                "Days": ["saturday", "tuesday", "thursday"]
+            },
+
+            {
+                "Name": "Dr. Husna Syed",
+                "Zip Code": "60609",
+                "Insurance": ["blue cross and blue shield of illinois", "cigna healthcare of illinois, inc.", "celtic insurance company"],
+                "Days": ["saturday", "tuesday", "thursday", "friday"]
+            },
+
+            {
+                "Name": "Dr. Nicholas Simmers",
+                "Zip Code": "60641",
+                "Insurance": ["quartz health benefit plans corporation", "celtic insurance company"],
+                "Days": ["saturday", "monday", "friday"]
+            }
+        ],
+
+        "oncologist":[
+            {
+                "Name": "Dr. Jenny Anderson",
+                "Zip Code": "60643",
+                "Insurance": ["blue cross and blue shield of illinois", "health alliance medical plans, inc.", "quartz health benefit plans corporation"],
+                "Days": ["saturday", "monday", "tuesday", "thursday"]
+            },
+
+            {
+                "Name": "Dr. Muhammad Hamed",
+                "Zip Code": "60637",
+                "Insurance": ["cigna healthcare of illinois, inc.", "quartz health benefit plans corporation", "celtic insurance company"],
+                "Days": ["monday", "thursday", "friday"]
+            },
+
+            {
+                "Name": "Dr. Zain Qureshi",
+                "Zip Code": "60643",
+                "Insurance": ["blue cross and blue shield of illinois", "cigna healthcare of illinois, inc.", "quartz health benefit plans corporation", "celtic insurance company", "my health alliance"],
+                "Days": ["saturday", "monday", "thursday"]
+            }
+        ],
+
+        "radiologist":[
+            {
+                "Name": "Dr. Hassan Feroz",
+                "Zip Code": "60626",
+                "Insurance": ["blue cross and blue shield of illinois", "health alliance medical plans, inc."],
+                "Days": ["saturday", "monday", "tuesday","thursday"]
+            },
+
+            {
+                "Name": "Dr. Sumayya Khan",
+                "Zip Code": "60659",
+                "Insurance": ["blue cross and blue shield of illinois", "quartz health benefit plans corporation", "celtic insurance company"],
+                "Days": ["saturday", "monday", "wednesday", "friday"]
+            },
+
+            {
+                "Name": "Dr. Zainab Ghazi",
+                "Zip Code": "60649",
+                "Insurance": ["cigna healthcare of illinois, inc.", "quartz health benefit plans corporation", "celtic insurance company"],
+                "Days": ["saturday", "monday", "tuesday", "thursday"]
+            }
+        ]
+    }    
+}
