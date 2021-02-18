@@ -12,3 +12,6 @@ Python 3.8
 
 RUN: 
 Download "chatbot.py" and "doctors.json" in same run using the command - 'python3 chatbot.py'
+
+NOTE:
+This chatbot is currently limited and is only meant to demonstrate its capabilities. Please take a look at the JSON file to identify which "doctors" user can ask for and in which areas. 
